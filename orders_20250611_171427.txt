@@ -1,2 +1,0 @@
-Timestamp,Action,Price,Quantity
-1749574380000000000,BUY,6090.0,1
